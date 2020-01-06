@@ -1,0 +1,100 @@
+I"w<h1 id="baturay-karaduman">Baturay Karaduman</h1>
+<p>Full Stack Developer, Mid-level React Developer, Junior Ruby on Rails Developer</p>
+
+<div id="webaddress">
+<a href="mailto:karadumanbaturay@gmail.com">karadumanbaturay@gmail.com</a>
+| <a href="tel:+491782944572">+491782944572</a>
+| <a href="http://www.spaceocean.co">Website</a>
+</div>
+
+<h2 id="profile">Profile</h2>
+
+<ul class="profile-list">
+  <li>
+    Mid-level software developer with 3 years industry experience specialised in javascript frameworks in order from most used to least <strong>React</strong>, Angular 2+, Vue.js and Node.js.
+  </li>
+  <li>
+    Advanced front-end knowledge including <strong>css, scss, less, html, jquery, vanilla javascript, Bootstrap 3/4, Material UI an Ant Design</strong>. I am able to create my own css frameworks
+  </li>
+  <li>
+    Using complex SQL queries with helpers of <strong>Ruby on Rails</strong>. Implementing full-stack MVC structures in Ruby&amp;Rails. Building any admin dashboards with Rails.
+  </li>
+  <li>
+    Creating API systems (using FastJson API mostly) with a good structure of policies, controllers, routes and services.
+  </li>
+  <li>
+    Extras: Building apps with <strong>React Native</strong>. Using Node.js and MongoDB along with that.
+  </li>
+</ul>
+
+<h3 id="specialized-in">Specialized in</h3>
+
+<p>Laws of motion, gravitation, minting coins, disliking <a href="http://en.wikipedia.org/wiki/Robert_Hooke">Robert Hooke</a></p>
+
+<h3 id="research-interests">Research interests</h3>
+
+<p>Cooling, power series, optics, alchemy, planetary motions, apples.</p>
+
+<h2 id="education">Education</h2>
+
+<p><code class="highlighter-rouge">1654-1660</code>
+<strong>The King’s School, Grantham.</strong></p>
+
+<p><code class="highlighter-rouge">June 1661 - now</code>
+<strong>Trinity College, Cambridge</strong></p>
+
+<ul>
+  <li>Sizar</li>
+</ul>
+
+<p><code class="highlighter-rouge">1667 - death</code>
+<strong>Trinity College, Cambridge</strong></p>
+
+<ul>
+  <li>Fellow</li>
+</ul>
+
+<h2 id="awards">Awards</h2>
+
+<p><code class="highlighter-rouge">2012</code>
+President, <em>Royal Society</em>, London, UK</p>
+
+<p>Associate, <em>French Academy of Science</em>, Paris, France</p>
+
+<h2 id="publications">Publications</h2>
+
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
+<h3 id="journals">Journals</h3>
+
+<p><code class="highlighter-rouge">1669</code>
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.</p>
+
+<p><code class="highlighter-rouge">1669</code>
+Lectiones opticæ.</p>
+
+<p>etc. etc. etc.</p>
+
+<h3 id="patents">Patents</h3>
+
+<p><code class="highlighter-rouge">2012</code>
+Infinitesimal calculus for solutions to physics problems, <a href="http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml">SMBC</a> patent 001</p>
+
+<h2 id="occupation">Occupation</h2>
+
+<p><code class="highlighter-rouge">1600</code>
+<strong>Royal Mint</strong>, London</p>
+
+<ul>
+  <li>Warden</li>
+  <li>Minted coins</li>
+</ul>
+
+<p><code class="highlighter-rouge">1600</code>
+<strong>Lucasian professor of Mathematics</strong>, Cambridge University</p>
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+
+:ET

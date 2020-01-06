@@ -1,0 +1,24 @@
+.generic-list li {
+  list-style: inside;
+  text-indent: 0;
+  padding: 0;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.extra-info {
+  margin-left: 10px;
+  color: #ec7e22;
+}
+
+.mb-1 {
+  margin-bottom: .25rem;
+}
+.mb-2 {
+  margin-bottom: .5rem;
+}
+.mb-3 {
+  margin-bottom: 1rem;
+}
