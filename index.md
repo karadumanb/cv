@@ -9,6 +9,7 @@ Full Stack Developer, Mid-level React Developer, Junior Ruby on Rails Developer
 <a href="mailto:karadumanbaturay@gmail.com">karadumanbaturay@gmail.com</a>
 | <a href="tel:+491782944572">+491782944572</a>
 | <a href="http://www.spaceocean.co">Website</a>
+| <a href="https://www.linkedin.com/in/baturay-serhat-karaduman-635a35131/">linked-in</a>
 </div>
 
 
