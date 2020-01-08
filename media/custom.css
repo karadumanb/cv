@@ -34,7 +34,7 @@ h2 {
 
 #toggle-btn {
   position: absolute;
-  right: -5px;
+  right: 10px;
   top: 10px;
   z-index: 2;
   padding:10px;
@@ -68,6 +68,9 @@ h2 {
   p, li {line-height: 2rem;}
   body.dark-theme h2 {
     background-color: black;
+  }
+  #toggle-btn {
+    right: -5px;
   }
 
 }
