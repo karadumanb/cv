@@ -8,11 +8,27 @@
   <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
   <link href="media/custom.css" type="text/css" rel="stylesheet">
 </head>
-<body>
+<body class="light-theme">
   <div id="main">
+    <button onclick="toggleTheme()" id="toggle-btn">Dark Mode</button>
     <div id="content">
     {{ content }}
     </div>
   </div>
+
+  <script>
+    function toggleTheme() {
+      var bodyClassList = document.body.classList;
+      if(bodyClassList.contains('light-theme')) {
+        document.getElementById("toggle-btn").innerHTML = "Light Mode";
+        bodyClassList.remove('light-theme');
+        bodyClassList.add('dark-theme')
+      } else {
+        document.getElementById("toggle-btn").innerHTML = "Dark Mode";
+        bodyClassList.remove('dark-theme');
+        bodyClassList.add('light-theme')
+      }
+    }
+  </script>
 </body>
 </html>

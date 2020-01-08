@@ -26,3 +26,58 @@
 #webaddress {
   max-width: 60%;
 }
+
+h2 {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#toggle-btn {
+  position: absolute;
+  right: -5px;
+  top: 10px;
+  z-index: 2;
+  padding:10px;
+  background-color: black;
+  color: white;
+}
+
+@media (max-width: 767px) {
+  #webaddress, h1, h2, h3, h4, p, ul {
+    max-width: unset;
+    text-align: left;
+    left: 5%;
+    width: 90%;
+    margin: 0;
+    top: 0;
+  }
+  h2 {
+    margin-top: 20px;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    width: 100%;
+    padding: 15px;box-shadow: -12px 2px 1px 0 rgba(0, 0,0 , .1);
+  }
+  p code {
+    left: unset;
+    top: 13px;
+    right: 10px;
+  }
+  p, li {line-height: 2rem;}
+  body.dark-theme h2 {
+    background-color: black;
+  }
+
+}
+
+body.dark-theme #toggle-btn {
+  background-color: white;
+  color: black;
+}
+
+body.dark-theme {
+  background-color: black;
+  color: white;;
+}
